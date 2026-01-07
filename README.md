@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a BYU Mechanical Engineering student that is currently doing research with Sterling Baird
 
 <!--
 **timothy-commins/Timothy-Commins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
